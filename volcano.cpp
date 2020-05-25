@@ -32,7 +32,7 @@ int main(int argc,char**argv)
     glutReshapeFunc(reshape);
     glutTimerFunc(1000,timer,0);
     glutMainLoop();
-    printf("Hello There")
+
 
 
 }
